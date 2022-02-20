@@ -26,7 +26,7 @@ func (p person) print() {
 }
 ```
 
-I am a tech enthusiast who loves to learn about new things.  
+I ❤ to learn about new things.  
 I am also use to be full-stack developer and a mistake maker 😊 with 10+ years of hands-on experience designing, developing, and
 implementing applications and solutions using different programming languages.
 
