@@ -32,7 +32,6 @@ implementing applications and solutions using different programming languages.
 
 [![Linkedin: Sergio](https://img.shields.io/badge/-Sergio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiosanguanini/)](https://www.linkedin.com/in/sergiosanguanini/)
 [![GitHub Sergio](https://img.shields.io/github/followers/ssergio198?label=follow&style=social)](https://github.com/ssergio198)
-[![Twitter Follow](https://img.shields.io/twitter/follow/_sergio198_?style=social&logo=twitter)](https://twitter.com/_sergio198_)
 
 ## 📢 Now
 
