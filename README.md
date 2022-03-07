@@ -39,7 +39,7 @@ implementing applications and solutions using different programming languages.
 - 🌱 I am going over **Go** and **Svelte**
 - 🧐 I am interested also in **Dart** and **Flutter**
 - ❤ Writing clean code and complex **SQL** queries 😅
-- 👯 I would like to look for projects in **Go**
+- 💡 I would like to look for projects in **Go**. Anybody?
 - ⚡ Fun fact... People get in touch for Java positions 😩
 - 💋 K.I.S.S. Keep It Simple, Stupid!
 
