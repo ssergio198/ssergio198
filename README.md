@@ -26,8 +26,13 @@ func (p person) print() {
 }
 ```
 
-I ❤ to learn about new things.  
-I am also use to be full-stack developer with 10+ years of hands-on experience designing, developing, and implementing applications and solutions using different programming languages.
+I am not an engineer. I am a self-taught programmer with over 20 years of hands-on experience designing, developing, and implementing applications using various programming languages.
+
+Over the last years, I have done the full-time thing.
+Built cloud stuff on Google Cloud Platform, wrangled Jira tickets, reviewed code, attended meetings that should have been emails.
+Good, but not great.
+
+I quit because I'm only fully awake when I am building my things, not someone else's roadmap.
 
 [![Linkedin: Sergio](https://img.shields.io/badge/-Sergio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiosanguanini/)](https://www.linkedin.com/in/sergiosanguanini/)
 [![GitHub Sergio](https://img.shields.io/github/followers/ssergio198?label=follow&style=social)](https://github.com/ssergio198)
@@ -39,7 +44,7 @@ I am also use to be full-stack developer with 10+ years of hands-on experience d
 - 🧐 I am interested also in **Dart** and **Flutter**
 - ❤ Writing clean code and complex **SQL** queries 😅
 - 💡 I would like to look for projects in **Go**. Anybody?
-- ⚡ Fun fact... People get in touch for Java positions 😩
+- ⚡ People get in touch for Java positions 😩
 - 💋 K.I.S.S. Keep It Simple, Stupid!
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
