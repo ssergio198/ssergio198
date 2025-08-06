@@ -41,9 +41,8 @@ I quit because I'm only fully awake when I am building my things, not someone el
 
 - 🔭 I use daily **C#** and **Angular**
 - 🌱 I am going over **Go** and **Svelte**
-- 🧐 I am interested also in **Dart** and **Flutter**
+- 🧐 I am interested also in **PrestaShop** and **Wordpress**
 - ❤ Writing clean code and complex **SQL** queries 😅
-- 💡 I would like to look for projects in **Go**. Anybody?
 - ⚡ People get in touch for Java positions 😩
 - 💋 K.I.S.S. Keep It Simple, Stupid!
 
